@@ -1,0 +1,23 @@
+{
+    "35c62d76-8152-4626-8712-eeb96381bea8": {
+        "make": "Dodge",
+        "model": "Charger",
+        "production": "1970",
+        "mileage": "10000",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3kQ4SUIMfdc3GG24e-zzpSx75hmi7QVZ_LQwZ8L5xax_H4Hi21p0w7f75gJ0dD1H5mo&usqp=CAU",
+        "description": "badass car",
+        "_createdOn": 1701873996907,
+        "_id": "29149d43-8a86-44a4-a6f4-28f34935d361"
+    },
+    
+    "b471bff2-e445-4a66-91c2-8264d2610d6b": {
+        "make": "Dodge",
+        "model": "Dart",
+        "production": "1971",
+        "mileage": "50000",
+        "image": "https://images.classic.com/vehicles/15cd5d895a1128bf18379318000412c4fc53829c.jpg?auto=format",
+        "description": "test",
+        "_createdOn": 1701884880180,
+        "_id": "70d157c6-9b8a-4f34-9da7-5f938c381111"
+    }
+}
